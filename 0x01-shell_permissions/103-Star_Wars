@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet https://www.starwars.com/series
+telnet towel.blinkenlights.nl
